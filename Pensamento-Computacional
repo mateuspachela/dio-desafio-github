@@ -1,0 +1,143 @@
+# Anotações das vídeo aulas :computer:
+
+### Aula de Introdução:
+
+- Pensamento computacional: Habilidade Generalista.
+- Resolver um problema  deve ter 4 etapas fundamentais:
+  - Decomposição;
+  - Reconhecimento de padrões;
+  - Abstração;
+  - Design de Algoritmos;
+
+- Processo Contínuo:
+  -  Definir uma solução;
+  - Testar a solução;
+  - Aperfeiçoamento da solução encontrada;
+
+
+
+### Habilidades complementares:
+
+- Raciocínio Lógico:
+
+  Raciocínio lógico é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+
+  
+
+- Aperfeiçoamento:
+
+  • Encontrar solução eficiente;
+  • Otimizar processos;
+  • Simplificar linhas de códigos;
+  • Funções bem definidas;
+
+### Decomposição:
+
+Processo de quebrar e determinar partes menores e gerenciáveis.
+Identificar os dados ➞ Agregar os dados ➞ Funcionalidade
+
+### Padrões:
+
+Processo onde identificamos estruturas invariáveis, um modelo base e repetições.
+A partir dos padrões conseguimos obter resolução para problemas diferentes.
+
+### Abstração:
+
+Observar, um ou mais elementos, avaliando características e propriedades em separado e com as particularidades essenciais identificadas generalizar para resolver um problema.
+
+### Algoritmos:
+
+- Sequência de passos com objetivo definido;
+- Execução de tarefas específicas;
+- Conjunto de operações que resultam em uma sucessão finita de ações;
+
+### Lógica:
+
+"Parte da filosofia que trata das formas do pensamento em geral e das operações intelectuais que visam à determinação do que é verdadeiro ou não."
+
+### Tipologia e Variáveis:
+
+Basicamente tipos são classificados por caracteres ou números e as variáveis é uma atribuição de um ou mais caracteres com finalidade de executar uma ação ou controlar algo.
+
+### Instruções Primitivas:
+
+Instruções são linguagem de palavras-chave (vocabulário) de uma determinada de programação que tem por finalidade comandar um computador que irá tratar os dados.
+
+### Estruturas Condicionais e Operadores:
+
+Se atendida a condição  ➞ Operação
+Estrutura condicional = expressa uma condição, se satisfeita executa uma operação.     
+
+### Estruturas de Repetição:
+
+Estruturas de repetição = condição de parada, redução de linhas, compreensão facilitada, redução de erro.
+
+### Vetores e Matrizes:
+
+- Vetor é uma variável que tem um tamanho pré-fixado;
+- Matriz é uma tabela organizada em linhas e colunas LxC;
+
+### Funções:
+
+Funções: Modularizar seu programa, altera o estado do programa e ganhos de produção.
+
+### Instruções de entrada e saída:
+
+Instruções de entrada e saída: Interfaces que deixam eu inserir ou imprimir dados, saída pode sair de várias formas possíveis.
+
+### Introdução a linguagem de programação:
+
+Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte.
+
+### Como um computador entende o programa?:
+
+Programa  ➞ Compilador  ➞ Linguagem de máquina
+
+(Programa Fonte)  ➞ Compilador  ➞ (Programa Objeto)
+
+### Características de um Programa: 
+
+• Facilidade de leitura;
+• Compreensão;
+• Ortogonalidade;
+• Definição adequada das estruturas;
+
+### Análises de código:
+
+Análise léxica, análise sintática e análise semântica.
+
+### Paradigmas de programção:
+
+"Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação."
+
+
+
+## Módulo Git/Github
+
+#### Links úteis:
+
+Instalação do git: https://git-scm.com/
+
+#### Comandos importantes:
+
+dir - mostrar as pastas existentes
+del/rmdir - excluir uma pasta
+cd .. -  mudar para o diretório anterior
+cls/ ctrl+L - limpar a tela
+cd - entrar numa pasta
+mkdir - criar diretórios
+git init - O git init cria um novo repositório do Git
+git add * -  primeiro comando em uma cadeia de operações que direciona o Git para "salvar"
+git commit - Os commits são as unidades estruturais de um cronograma de projeto *Git*. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto *Git*. o git commit realiza esses commits
+
+#### Definições importantes:
+
+SHA-1 é uma função de dispersão criptográfica (ou função hash criptográfica) projetada pela Agência de Segurança Nacional dos Estados Unidos e é um Padrão Federal de Processamento de Informação dos Estados Unidos publicado pelo Instituto Nacional de Padrões e Tecnologia (NIST).
+
+Branchs: Um branch no Git é simplesmente um ponteiro móvel para as alterações feitas num projeto.
+Tree: a tree é um conjunto de valores de índices apontando para os objetos.
+Blob:  Cada arquivo no Git é armazenado como um objeto blob.
+Commit: um commit é a realização de um conjunto de mudanças provisórias permanentes, marcando o fim de uma transação e proporcionando durabilidade às transações ACID.
+
+Você chegou ao fim :happy:.
+
